@@ -1,4 +1,5 @@
 haityu
 ======
 各ユーザ名を打ってください。
-・iwanaga0202
+・iwanaga0202  
+・Nitaro16
