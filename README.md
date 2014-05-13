@@ -5,4 +5,5 @@ haityu
 * iwanaga0202
 * dora56
 * Nitaro16 (Tani‚â‚Å)
-*isikawa2014
+* isikawa2014
+* nishiyamatakuya
